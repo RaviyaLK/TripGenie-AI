@@ -15,7 +15,7 @@ The application leverages the Amadeus Self-Service APIs for real-time travel dat
     - Hotels
     - Points of Interest
 - **Simple Frontend**: A clean HTML and JavaScript interface to interact with the chatbot ( For Demonstration purpose).
-- **Modern Tech Stack**: Built with Python, FastAPI, and Google's Gemini Pro for a high-performance, asynchronous backend.
+- **Modern Tech Stack**: Built with Python, FastAPI, and Google's Gemini  for a high-performance, asynchronous backend.
 
 ## 🛠️ Tech Stack & Architecture
 
