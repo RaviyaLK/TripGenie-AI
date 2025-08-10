@@ -2,7 +2,6 @@
 from pydantic import BaseModel, Field
 from typing import List
 
-# --- Chat Schemas ---
 
 class ChatPart(BaseModel):
     text: str
