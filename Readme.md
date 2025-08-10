@@ -102,10 +102,10 @@ http://127.0.0.1:8000/docs
 
 To interact with the chatbot, open the user interface in your browser.
 
-1.Make sure you have the Live Server extension installed in VS Code.
-2.In the VS Code file explorer, navigate to the frontend directory.
-3.Right-click on the index.html file.
-4.Select "Open with Live Server" from the context menu.
+- Make sure you have the Live Server extension installed in VS Code.
+- In the VS Code file explorer, navigate to the frontend directory.
+- Right-click on the index.html file.
+- Select "Open with Live Server" from the context menu.
 
 This will automatically open a new tab in your default web browser (e.g., at http://127.0.0.1:5500/frontend/index.html) where you can start chatting with TripGenie AI.
 
