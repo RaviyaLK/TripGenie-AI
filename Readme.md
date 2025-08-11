@@ -1,5 +1,5 @@
 # TripGenie AI 🧞✈️
-
+Hosted url: https://tripgenie-ai-900983812407.asia-south1.run.app
 TripGenie AI is an intelligent, conversational travel assistant designed to make trip planning effortless and intuitive. Powered by Google's Gemini Pro model, TripGenie understands natural language to help users discover hotels and tourist attractions around the world.
 
 The application leverages the Amadeus Self-Service APIs for real-time travel data and is built with a modern FastAPI backend, making it both powerful and scalable.
