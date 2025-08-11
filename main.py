@@ -1,6 +1,6 @@
 # main.py
 from fastapi import FastAPI
-
+from fastapi.responses import FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 from api.chat import router as chat_router
 
@@ -18,5 +18,5 @@ app.add_middleware(
 app.include_router(chat_router, prefix="/api")
 
 @app.get("/")
-def read_root():
-    return {"status": "Travel Chatbot API is running. Go to /docs for the API explorer."}
+async def root():
+    return FileResponse("static/index.html")

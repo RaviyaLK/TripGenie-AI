@@ -31,8 +31,6 @@ coverage.xml
 *.py,cover
 .hypothesis/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
 
 # Pytest cache
 .pytest_cache/
@@ -65,9 +63,6 @@ logs/
 
 # Docker files
 *.dockerfile
-
-# macOS
-.DS_Store
 
 # Others
 *.sqlite3
