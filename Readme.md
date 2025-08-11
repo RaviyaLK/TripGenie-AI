@@ -96,7 +96,8 @@ uvicorn main:app --reload
 ### 6. Access the API
 
 The API will be running at http://127.0.0.1:8000. You can access the interactive API documentation (powered by Swagger UI) at:
-http://127.0.0.1:8000/docs
+http://127.0.0.1:8000/docs. 
+Update: Now it has hosted on Google cloud run, You can access the interactive API documentation at: https://tripgenie-ai-900983812407.asia-south1.run.app/docs and also You can access the chatbot UI using https://tripgenie-ai-900983812407.asia-south1.run.app. 
 
 ### 7. View the Frontend with Live Server
 
@@ -107,7 +108,7 @@ To interact with the chatbot, open the user interface in your browser.
 - Right-click on the index.html file.
 - Select "Open with Live Server" from the context menu.
 
-This will automatically open a new tab in your default web browser (e.g., at http://127.0.0.1:5500/frontend/index.html) where you can start chatting with TripGenie AI.
+This will automatically open a new tab in your default web browser (e.g., at http://127.0.0.1:5500/static/index.html) where you can start chatting with TripGenie AI.
 
 ## 🌟 Future Improvements
 
