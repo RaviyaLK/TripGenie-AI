@@ -1,5 +1,5 @@
 # TripGenie AI 🧞✈️
-
+Hosted url:[TripGenie](https://tripgenie-ai-900983812407.asia-south1.run.app/)
 
 TripGenie AI is an intelligent, conversational travel assistant designed to make trip planning effortless and intuitive. Powered by Google's Gemini Pro model, TripGenie understands natural language to help users discover hotels and tourist attractions around the world.
 
@@ -98,8 +98,7 @@ uvicorn main:app --reload
 
 The API will be running at http://127.0.0.1:8000. You can access the interactive API documentation (powered by Swagger UI) at:
 http://127.0.0.1:8000/docs. 
-Update: Now it has hosted on Google cloud run, You can access the interactive API documentation at: https://tripgenie-ai-900983812407.asia-south1.run.app/docs and also You can access the chatbot UI using https://tripgenie-ai-900983812407.asia-south1.run.app. 
-
+Update: Now it has hosted on Google cloud run, You can access the interactive API documentation at: https://tripgenie-ai-900983812407.asia-south1.run.app/docs and also You can access the chatbot UI using this [LinK](https://tripgenie-ai-900983812407.asia-south1.run.app/)
 ### 7. View the Frontend with Live Server
 
 To interact with the chatbot, open the user interface in your browser.
